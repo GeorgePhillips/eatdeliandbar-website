@@ -1,4 +1,4 @@
-# Eat Deli &amp Bar
+# Eat Deli & Bar
 
 URL: http://www.eatdeliandbar.co.nz/
 
