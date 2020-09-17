@@ -1,0 +1,35 @@
+{
+	
+	"include": [".htaccess"],
+	"exclude": [".sass-cache",".jekyll-cache","gemfiles","Gemfile","Gemfile.lock","node_modules","vendor/bundle/","vendor/cache/","vendor/gems/","vendor/ruby/"],
+	
+	"collections": {"posts": {
+				"output": true,
+				"_sort-key": null,
+				"_subtext-key": null,
+				"_image-key": null,
+				"_image-size": null,
+				"_singular-name": null,
+				"_singular-key": null,
+				"_disable-add": null,
+				"_icon": null,
+				"_add-options": null
+			}},
+	
+	
+	"defaults": [],
+	
+	
+	
+	"paths": {
+		"uploads": null,
+		"plugins": "_plugins",
+		"data": "_data",
+		"collections": "",
+		"includes": "_includes",
+		"layouts": "_layouts"
+	},
+	
+	
+	"source": "/usr/local/__site/src"
+}
